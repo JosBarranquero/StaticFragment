@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StaticFragment</string>
+
+    <string name="hello_blank_fragment">Fragment B text</string>
+    <string name="change">Change text in fragment B</string>
+</resources>
